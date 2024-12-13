@@ -2,8 +2,8 @@
 You can use the `ConvertTo-mRemoteNG.ps1` script to make it a bit easier to bulk import Connections and Containers into mRemoteNG with support for nested folders.
 
 # Templates
-`template_basic.csv` - Ideal for a single site organisation.
-`template_advanced.csv` - Ideal for multi-site organisation.
+- `template_basic.csv` - Ideal for a single site organisation.
+- `template_advanced.csv` - Ideal for multi-site organisation.
 
 # Usage
 1. Download the repo.
